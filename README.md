@@ -1,2 +1,2 @@
 # Project 1 - College Recruitement Improvement Study
- 
+This study uses exploratory data analysis along with filtering, pivot tables and charts to discover how the college can improve their recruitment efforts.
